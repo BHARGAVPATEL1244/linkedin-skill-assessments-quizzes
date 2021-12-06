@@ -514,3 +514,10 @@ console.log(currencies);
 - [ ] allowing the browser to ignore code it believes will perform badly
 
 [Source: MDN Docs](https://developer.mozilla.org/en-US/docs/Glossary/Tree_shaking)
+
+#### Q54. which browser is not based on chromium?
+
+- [ ] opera
+- [x] edge
+- [ ] firefox
+- [ ] chrome
