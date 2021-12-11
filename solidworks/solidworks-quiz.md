@@ -171,7 +171,7 @@
 #### Q23. You have a single line within a sketch that you would like to split into three separate lines. How can you achieve this?
 
 - [ ] Use the Offset Entities tool
-- [ ] Use the Split Line tool
+- [X] Use the Split Line tool
 - [ ] Use the Split Entities tool
 - [ ] Use the Split tool
 
